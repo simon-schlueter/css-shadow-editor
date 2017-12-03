@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+}
+
+.name {
+  width: 65px;
+  font-size: 12px;
+  padding: 8px 15px 8px 8px;
+  color: #777;
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
+
+.control {
+  flex: 1;
+}
+
+.control input[type="checkbox"] {
+  margin: 0;
+  margin-top: 8px;
+}
+
+.control select {
+  margin-top: 5px;
+}

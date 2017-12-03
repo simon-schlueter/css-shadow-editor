@@ -1,0 +1,9 @@
+.container {
+  margin: 12px;
+  border: 1px solid #ddd;
+  background: white;
+  padding: 16px;
+  font-size: 13px;
+  user-select: text;
+  white-space: pre-wrap;
+}

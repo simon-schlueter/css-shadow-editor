@@ -1,0 +1,48 @@
+.container {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 10px;
+}
+
+.noBorder {
+  border-bottom: none;
+}
+
+.header {
+  border-bottom: 1px solid #ddd;
+  font-weight: bold;
+  height: 30px;
+  font-size: 11px;
+  line-height: 30px;
+  color: #888;
+  text-transform: uppercase;
+  display: flex;
+}
+
+.name {
+  flex: 1;
+  padding: 0 10px;
+}
+
+.button {
+  width: 32px;
+  border: none;
+  border-left: 1px solid #ddd;
+  background: transparent;
+  font-size: 12px;
+  font-weight: bold;
+  color: #777;
+  text-align: center;
+  padding: 0;
+}
+
+.button:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.button:active {
+  background: rgba(255, 255, 255, 0.75);
+}
+
+.button:focus {
+  outline: none;
+}

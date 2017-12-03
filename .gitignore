@@ -1,0 +1,11 @@
+node_modules
+
+build/**/*
+!build/index.html
+
+.npm
+.yarn-integrity
+.npm
+*.log
+logs
+npm-debug.log*
