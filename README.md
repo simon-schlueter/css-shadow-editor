@@ -1,6 +1,6 @@
 # CSS Shadow Editor
 
-This is a little tool to help you create CSS box-shadow and text-shadow properties.
+This is a little tool to help you create CSS box-shadow and text-shadow properties with multiple layers.
 
 You can try it out online on [here](https://simonschlueter.com/boxshadow-editor).
 
